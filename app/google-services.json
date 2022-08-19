@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "313819623590",
+    "project_id": "simple-notes-app-2365c",
+    "storage_bucket": "simple-notes-app-2365c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313819623590:android:40f85d4d0edfbc27ac8467",
+        "android_client_info": {
+          "package_name": "richard.app.simplenotesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313819623590-lbo7kjutd0r2kp0jmusdcfkkbjtg54a6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxOLoN_3ghhTgvNciBUXfb35_okMS7KMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313819623590-lbo7kjutd0r2kp0jmusdcfkkbjtg54a6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

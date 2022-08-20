@@ -36,7 +36,8 @@ class NotesFragment : Fragment(R.layout.fragment_notes)
                 {
                     rvNotes.layoutManager = GridLayoutManager(activity, 2)
                     clicked = !clicked
-                } else if (clicked)
+                }
+                else if (clicked)
                 {
                     rvNotes.layoutManager = LinearLayoutManager(activity)
                     clicked = !clicked
